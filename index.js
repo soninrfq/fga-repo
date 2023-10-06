@@ -1,1 +1,1 @@
-console.log("Hello FGA Binar");
+console.log("Hello FGA");
